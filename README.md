@@ -1,113 +1,112 @@
 # openbim-management
 BIM Management &amp; Digital Construction portfolio focused on openBIM (IFC, VDI 2552), interdisciplinary coordination, AIA/BAP development, and structured information workflows. Integrating engineering expertise with data-driven process optimization for complex building and industrial projects.
 
-🏗 Artem Soroka – BIM Manager | Digital Construction | openBIM
+# 🏗 Artem Soroka – BIM Manager | Digital Construction | openBIM
 
-Mechanical Engineer (Ingenieurkammer Sachsen) and buildingSMART-certified BIM Professional specializing in structured BIM management, interdisciplinary coordination, and digital information workflows in complex construction projects.
+Strategic BIM management portfolio focused on openBIM implementation, structured information governance, and interdisciplinary coordination according to VDI 2552 and industry best practices.
 
-I combine engineering expertise with data-driven methodologies to ensure transparent, compliant, and efficient BIM processes across the entire project lifecycle.
+Mechanical Engineer (Ingenieurkammer Sachsen) and buildingSMART-certified BIM Professional with a strong focus on managing digital construction workflows across complex industrial and infrastructure projects.
 
-🔹 Professional Positioning
+---
 
-As a BIM Manager, I focus on:
+## 🔹 Professional Positioning
 
-Strategic implementation of BIM according to VDI 2552
+As a BIM Manager, I specialize in:
 
-Development and review of AIA & BAP
+* Strategic implementation of BIM methodologies
+* Development and validation of AIA & BAP
+* Information management and model governance
+* openBIM workflows (IFC-based coordination)
+* Interdisciplinary coordination (TGA, Architecture, Structure)
+* Digital quality assurance & clash detection
 
-Information management and model governance
+My objective is to establish reliable, transparent, and scalable BIM environments that align planning, execution, and operational goals.
 
-openBIM workflows (IFC-based coordination)
+---
 
-Interdisciplinary coordination of TGA, architecture, and structure
+## 🔹 Core Competencies
 
-Digital quality assurance & clash management
+### 🏗 BIM Management & Coordination
 
-My approach integrates technical precision with structured data management to align planning, execution, and operational objectives.
+* BIM strategy development & implementation
+* Preparation and review of AIA (Auftraggeber-Informationsanforderungen)
+* Creation and governance of BAP (BIM-Abwicklungsplan)
+* Model coordination & interdisciplinary clash detection
+* CDE-oriented workflows
+* openBIM standards (IFC, VDI 2552)
+* Model validation & quality assurance
 
-🔹 Core Competencies
-🏗 BIM Management & Coordination
+### ⚙ Technical Engineering Background
 
-Development of BIM strategies and execution plans (BAP)
+* Mechanical engineering (Maschinenbau)
+* Production systems & process optimization
+* Cross-disciplinary technical integration (TGA & industrial systems)
 
-Definition and validation of AIA (Auftraggeber-Informationsanforderungen)
+### 🤖 Digital Process Optimization
 
-Model coordination & clash detection
+* Python-based workflow automation
+* Structured document processing
+* Data-driven model analysis
+* AI-assisted information validation
 
-CDE-oriented workflows
+---
 
-openBIM standards (IFC, VDI 2552)
+## 🔹 Software & Technical Stack
 
-Quality assurance & model validation
+* Autodesk Revit (Architecture, TGA/MEP, Structure, Steel, Precast)
+* Autodesk Navisworks
+* Autodesk Inventor
+* CATIA V5
+* AutoCAD
+* Python (workflow automation & validation)
 
-⚙ Technical Engineering Background
+---
 
-Mechanical engineering (Maschinenbau)
+## 🔹 Certificates & Professional Qualifications
 
-Production systems & process optimization
+All certificates supporting my BIM Manager profile and professional development:
 
-Technical system integration
+### 📘 buildingSMART Certification
 
-Cross-disciplinary understanding of TGA and industrial systems
+* [Foundation – openBIM & VDI 2552 Blatt 8.1](certificates/buildingSMART_Foundation.pdf)
+* [Practitioner – BIM-Koordinator (VDI 2552 Blatt 8.2/8.3)](certificates/AGT-BIM-Koordinator.pdf)
+* [Practitioner – BIM-Manager (VDI 2552 Blatt 8.2/8.3)](certificates/AGT-BIM-Manager.pdf)
 
-🤖 Digital Process Optimization
+### 🏢 BIM for General Contractors
 
-Automation of BIM-related workflows (Python-based)
+* [BIM für Generalunternehmer – AGT Akademie (80 UE)](certificates/AGT-BIM-Generalunternehmer.pdf)
 
-Structured document processing & data validation
+### 🏗 Revit & CAD Training
 
-AI-assisted information analysis
+* [Revit CAD Applications – 450 UE](certificates/Artem%20Soroka%20%28Revit%29%20Zertifikat%20%281%29.pdf)
 
-Data-driven support for decision-making processes
+### 🔍 BIM Tools & Coordination
 
-🔹 Software & Technical Stack
+* [BIMcollab Zoom – Conflict Detection](certificates/certificate-bimcollab-zoom-conflict-detection-62f515569557d7ee5f0e92f9.pdf)
 
-Autodesk Revit (Architecture, TGA/MEP, Structure, Steel, Precast)
+---
 
-Autodesk Navisworks
+## 🔹 Areas of Focus
 
-Autodesk Inventor
+* Industrial construction & factory planning
+* Data center projects
+* Technical building systems (TGA)
+* Public infrastructure
+* Owner-side BIM representation
 
-CATIA V5
+---
 
-AutoCAD
+## 🔹 Professional Objective
 
-Python (workflow automation & data validation)
+I am focused on BIM Management and Digital Construction roles where structured information governance, openBIM implementation, and interdisciplinary coordination are critical for project success.
 
-🔹 Certifications & Qualifications
+My approach integrates engineering precision with digital process optimization to enhance efficiency, compliance, and long-term asset performance.
 
-buildingSMART Professional Certification
+---
 
-Foundation (openBIM, VDI 2552 Blatt 8.1)
+## 🔹 Previous Digital Engineering Background
 
-Practitioner – BIM-Koordinator (VDI 2552 Blatt 8.2/8.3)
+Before fully specializing in BIM management, I developed expertise in automation, data processing, and AI-supported workflows.
+This background strengthens my ability to optimize BIM processes through structured data handling and digital validation tools.
 
-Practitioner – BIM-Manager (VDI 2552 Blatt 8.2/8.3)
-
-Advanced Revit Training
-
-450 UE – Architectural, Structural & MEP modeling
-
-Additional Qualifications
-
-BIM for General Contractors (80 UE)
-
-Automation & Data Processing (Python, ML foundations)
-
-🔹 Areas of Interest
-
-Industrial construction & factory planning
-
-Data center projects
-
-Technical building systems (TGA)
-
-Infrastructure & public sector projects
-
-Owner-side BIM representation
-
-🔹 Professional Objective
-
-I am focused on roles involving BIM management, digital coordination, and structured information governance in technically demanding projects.
-
-My objective is to create reliable, compliant, and scalable BIM environments that support long-term project and asset performance.
+(Additional technical portfolio available upon request.)
