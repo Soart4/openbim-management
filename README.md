@@ -79,6 +79,7 @@ All certificates supporting my BIM Manager profile and professional development:
 ### 🏗 Revit & CAD Training
 
 * [Revit CAD Applications – 450 UE](certificates/Artem%20Soroka%20%28Revit%29%20Zertifikat%20%281%29.pdf)
+* [Revit IHK-Zertifikat](https://github.com/Soart4/openbim-management/blob/main/certificates/IHK%20Zertifikat%20Soroka.pdf)
 
 ### 🔍 BIM Tools & Coordination
 
